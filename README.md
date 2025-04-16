@@ -56,7 +56,6 @@ Mas *rastros de alguém que não quis ser esquecido*.
 [DISCONNECTION IMMINENT...]  
 [SIGNAL LOST]  
 [END OF TRANSMISSION]
-
 ---
 
 🪨 **Este repositório é um fóssil de memória.**  
